@@ -1,0 +1,2 @@
+# Visualized_Emotion_Regulation_System_Powered_by_Pneumatic_Pouch_Motor
+气动袋式电机驱动的可视化情绪调节系统
